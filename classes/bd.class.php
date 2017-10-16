@@ -3,7 +3,7 @@
 		public $conexao;
 		public $id;
 		public function __construct(){
-			$this->conexao = new mysqli("localhost", "root", "", "leilao");
+			$this->conexao = new mysqli("localhost", "user", "password", "database");
 			$this->conexao -> set_charset("utf8");
 		}
 
