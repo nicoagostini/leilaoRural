@@ -21,4 +21,4 @@ To use the system, you can find the Database configuration in the file "../Class
 
 Feel free to contact me if you have any question.
 
-Nico
+Nicolas
