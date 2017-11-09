@@ -15,7 +15,7 @@ Password: buyer
 
 OR
 
-Sign up in the system, there are a link in the index page.
+Sign up in the system, there is a link in the index page.
 
 To use the system, you can find the Database configuration in the file "../Classes/bd.class.php".
 
